@@ -1,0 +1,16 @@
+.bd {
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+    font-family: 'Arial', cursive;
+}
+footer{
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0) ;
+}
+   
